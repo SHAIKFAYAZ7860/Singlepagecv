@@ -9,9 +9,6 @@ This is a single-page HTML CV that includes my personal details, education, skil
 - SEO Meta Tags and Open Graph Tags
 - Favicon linked
 
-## Live Demo
-
-[Click here to view my CV](http://127.0.0.1:5500/Single_page_cv/cv.html)
 
 ## Author
 
