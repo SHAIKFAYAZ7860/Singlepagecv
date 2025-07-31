@@ -11,7 +11,7 @@ This is a single-page HTML CV that includes my personal details, education, skil
 
 ## Live Demo
 
-[Click here to view my CV](https://shaikfayaz7860.github.io/Singlepagecv/)
+[Click here to view my CV](http://127.0.0.1:5500/Single_page_cv/cv.html)
 
 ## Author
 
